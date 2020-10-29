@@ -1,1 +1,1 @@
-This is a small React project to develope new skills
+This is a small React project to developed new skills
